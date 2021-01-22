@@ -10,4 +10,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="allguests">Todos Convidados</string>
+    <string name="presents">Convidados com presença confirmada</string>
+    <string name="absents">Convidados que não estarão presentes</string>
 </resources>
